@@ -9,11 +9,12 @@ I'm a passionate cybersecurity hobbyist with a keen interest in Capture The Flag
 
 ## 🏆 Achievements
 - 🥇 **CTF Platforms**:
-  - TryHackMe: 404 completed rooms
-  - HackTheBox: 25 machine progress
+  - TryHackMe: 444 completed rooms
+  - HackTheBox: 27 machine progress
 - 📜 **Certifications**:
   - eJPTv1 (2021), eJPTv2 (2023)
   - eCPPTv3 (2024)
+  - HTB CJCA (2026)
 
 ## 🎯 Goals
  - Continue to progress my knowledge, emphasising hands-on keyboard experience.
